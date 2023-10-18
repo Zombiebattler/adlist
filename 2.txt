@@ -1,0 +1,15 @@
+# Test addlist
+
+googleads.g.doubleclick.net
+
+tpc.googlesyndication.com
+
+
+
+doubleclick.net 
+googletagmanager.com 
+googletagservices.com 
+pubmatic.com
+b.cdnst.net 
+ads.pubmatic.com
+www.googletagservices.com
