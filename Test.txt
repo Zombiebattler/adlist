@@ -2,4 +2,4 @@
 
 googleads.g.doubleclick.net
 
-https://tpc.googlesyndication.com
+tpc.googlesyndication.com
