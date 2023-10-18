@@ -1,3 +1,5 @@
 # Test addlist
 
 googleads.g.doubleclick.net
+
+https://tpc.googlesyndication.com
